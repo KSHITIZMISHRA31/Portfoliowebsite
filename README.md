@@ -68,3 +68,4 @@ None required. The site has no backend calls, so there's nothing to configure �
 - **No custom domain configured** — deploy instructions above assume GitHub Pages' default `.github.io` URL or a Vercel/Netlify subdomain.
 - **"Backend Microservices (JWT + Kafka)" project is not included** — per your confirmation, it doesn't have a public repo, so it's omitted rather than linked to nothing.
 - **No live GitHub API integration** — repo/contribution stats are not pulled live; the Projects section is authored directly from the repos I actually inspected. Static was the right call here per your own brief (point 12: prefer a clean static representation if live integration adds unnecessary complexity) since your GitHub account doesn't have enough repo/contribution volume yet for a stats widget to look substantive.
+Hosted Link - https://kshitizportfolio26.netlify.app/
